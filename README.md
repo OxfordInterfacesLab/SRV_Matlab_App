@@ -2,6 +2,10 @@
 
 This interface recombination calculator is programmed as a Matlab App using the extended Shockley-Read-Hall interface recombination model,  with Girisch and Aberle’s iterative algorithm.
 
+To use, downlowad: srv_app.mlappinstall, and install it into your Matlab console. If you don't have access to a Matlab licence you can download the stand-alone app for Windows. The raw code is included in srv_app_matlab_raw.m
+
+## Method
+
 Shockley-Read-Hall formalism for defect-mediated recombination is detailed in [1–3], and it is extended to an arbitrary trap level density function in [4]. 
 
 To calculate surface recombination velocity (SRV) we use the algorithm below as described in [4,5].
@@ -12,7 +16,9 @@ This app was developed in support of the publication "Charge at the Si-SiO2 Inte
 
 ![image](https://user-images.githubusercontent.com/53188769/84266444-6038f180-ab1c-11ea-85d3-5735829bd662.png)
 
-An exmaple calculation using this Matlab App is shown below:
+## Preview
+
+An example calculation using this Matlab App is shown below:
 
 ![image](https://user-images.githubusercontent.com/53188769/84266721-db020c80-ab1c-11ea-9b9b-9161eae96c97.png)
 
