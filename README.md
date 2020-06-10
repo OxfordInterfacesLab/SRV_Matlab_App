@@ -22,6 +22,7 @@ An example calculation using this Matlab App is shown below:
 
 ![image](https://user-images.githubusercontent.com/53188769/84266721-db020c80-ab1c-11ea-9b9b-9161eae96c97.png)
 
+## References
 
 1]	C.T. Sah, R.N. Noyce, W. Shockley, Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics, Proceedings of the Institute of Radio Engineers. 45 (1957) 1228–1243. doi:10.1109/JRPROC.1957.278528.
 
