@@ -12,6 +12,10 @@ This app was developed in support of the publication "Charge at the Si-SiO2 Inte
 
 ![image](https://user-images.githubusercontent.com/53188769/84266444-6038f180-ab1c-11ea-85d3-5735829bd662.png)
 
+An exmaple calculation using this Matlab App is shown below:
+
+![image](https://user-images.githubusercontent.com/53188769/84266721-db020c80-ab1c-11ea-9b9b-9161eae96c97.png)
+
 
 1]	C.T. Sah, R.N. Noyce, W. Shockley, Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics, Proceedings of the Institute of Radio Engineers. 45 (1957) 1228–1243. doi:10.1109/JRPROC.1957.278528.
 
