@@ -2,7 +2,7 @@
 
 This interface recombination calculator is programmed as a Matlab App using the extended Shockley-Read-Hall interface recombination model,  with Girisch and Aberle’s iterative algorithm.
 
-To use, downlowad: srv_app.mlappinstall, and install it into your Matlab console. If you don't have access to a Matlab licence you can download the stand-alone app for Windows. The raw code is included in srv_app_matlab_raw.m
+To use, downlowad: srv_app.mlappinstall, and install it into your Matlab console. If you don't have access to a Matlab licence you can download the stand-alone app for Windows. 
 
 ## Method
 
