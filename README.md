@@ -4,6 +4,10 @@ This interface recombination calculator is programmed as a Matlab App using the 
 
 To use, downlowad: srv_app.mlappinstall, and install it into your Matlab console. If you don't have access to a Matlab licence you can download the stand-alone app for Windows. 
 
+## Use
+
+A tutorial of the theoretical basics and use of this app is given in https://youtu.be/bHikP9CuTh4
+
 ## Method
 
 Shockley-Read-Hall formalism for defect-mediated recombination is detailed in [1–3], and it is extended to an arbitrary trap level density function in [4]. 
