@@ -2,11 +2,13 @@
 
 This interface recombination calculator is programmed as a Matlab App using the extended Shockley-Read-Hall interface recombination model,  with Girisch and Aberle’s iterative algorithm.
 
-To use, downlowad: srv_app.mlappinstall, and install it into your Matlab console. If you don't have access to a Matlab licence you can download the stand-alone app for Windows. 
+To use, downlowad: srv_appXX.mlapp and place in Matlab console folder. Run by executin gsrv_appXX.mlapp.
 
 ## Use
 
 A tutorial of the theoretical basics and use of this app is given in https://youtu.be/bHikP9CuTh4
+
+A second tutorial has been created to support the use of models to interpret KP measurements of CPD in the dark and under illumination. https://youtu.be/S1aIW3m5tQY 
 
 ## Method
 
@@ -16,7 +18,10 @@ To calculate surface recombination velocity (SRV) we use the algorithm below as 
 
 The silicon space charge density is calculated after the work in [6,7].
 
-This app was developed in support of the publication "Charge at the Si-SiO2 Interface and its Effect on Surface Recombination in Solar Cells", Ruy S Bonilla, Isabel Al-Dhahir, Mingzhe Yu, Phillip Hamer, Pietro Altermatt. Solar Energy Materials and Solar Cells, 2020.
+This app was developed in support of the publication "Charge fluctuations at the Si–SiO2 interface and its effect on surface recombination in solar cells", Ruy S Bonilla, Isabel Al-Dhahir, Mingzhe Yu, Phillip Hamer, Pietro Altermatt. Solar Energy Materials and Solar Cells, 2020.
+
+Additionally, the Kelvin probe part is fully described on "Modelling of Kelvin probe surface voltage and photovoltage in dielectric-semiconductor interfaces" Ruy Sebastian Bonilla, Published 5 August 2022, Materials Research Express, Volume 9, Number 8.
+
 
 ![image](https://user-images.githubusercontent.com/53188769/84266444-6038f180-ab1c-11ea-85d3-5735829bd662.png)
 
